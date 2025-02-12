@@ -11,5 +11,15 @@ Estou ansioso para contribuir em projetos desafiadores, aprender com profissiona
 • Conhecimento básico em desenvolvimento de software.
 • Conhecimento básico em banco de dados.
 • Habilidade em solução de problemas.
+• Conhecimento em rede de computadores .
+• Conhecimento em sistema de firewall Pfsense.
+
+### Habilidades Comportamentais
+• Comunicação eficiente.
+• Trabalho em equipe.
+• Capacidade de aprender rápidamente e se adaptar.
+• Gerenciar prazos.
+• Pro atividade e responsabilidade.
+
 
 
