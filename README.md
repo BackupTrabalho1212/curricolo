@@ -32,6 +32,15 @@ Cargo: Senior 1
 Período: Fevereiro/2023 – Atual.
 Função: Gestor de rede de infraestrutura , paintest.
 
+### Experiencia 
+
+• Gerenciamento de infraestrutura e redes, garantindo o funcionamento e qualidade da rede do cliente.
+• Configuração de serviços como Active Directory, DHCP, DNS, GPO e compartilhamento de arquivos nos servidores.
+• Monitoramento de roteadores, firewall e servidores, garantindo o funcionamento de VPNs, backups e vida útil dos servidores.
+• Implantação e manutenção de Firewall PFSENSE, garantindo a segurança da rede e o controle de acesso dos usuários da rede, bloqueando acesso a sites maliciosos e conteúdo não permitido pelas empresas.
+• Gerenciamento de Office 365, realizando a criação de usuários Azure, controle de licenças do Office, controle de permissões ao Sharepoint e configuração de E-mails nos computadores conforme necessidade do cliente.
+• Configuração de roteadores Draytek, realizando a segmentação da rede em Vlans para maior segurança, controle de acesso aos servidores através de VPNs PPTP e SSL, Controle de Load Balance e Failover dos links de internet para garantir a alta disponibilidade do acesso à internet
+
 ### Formação Acadêmica
 
 Curso Técnico em Desenvolvimento de Sistema
