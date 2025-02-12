@@ -42,3 +42,12 @@ Graduação: Analise Desenvolvimento de Sistema.
 Faculdade: Unicesumar.
 Período: Fev/2025 – Atual.
 
+### Cursos ePalestras (Relevantes)
+
+• Introduction to IoT(Fundamento basicos de redes IoT) – 10 horas
+• IoT Fundamentals: Connecting Things(Cisco Packet tracer, Como trablhar
+em equipe) – 30 horas
+• Implementaçao de Sistema – 20 horas
+• Manutençao de Sistemas – 20 horas
+• Gestão de firewall Pfsense - 40 horas
+• Arquitetura de Redes - 40 horas
