@@ -6,3 +6,10 @@ Me chamo Gabriel, tenho 19 anos, entusiasta e dedicado, atualmente embarcando na
 
 Estou ansioso para contribuir em projetos desafiadores, aprender com profissionais experientes e fazer parte do crescimento dinâmico da indústria de tecnologia.
 
+### Habilidades Técnicas
+• Lógica.
+• Conhecimento básico em desenvolvimento de software.
+• Conhecimento básico em banco de dados.
+• Habilidade em solução de problemas.
+
+
