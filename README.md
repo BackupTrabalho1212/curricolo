@@ -32,3 +32,13 @@ Cargo: Senior 1
 Período: Fevereiro/2023 – Atual.
 Função: Gestor de rede de infraestrutura , paintest.
 
+### Formação Acadêmica
+
+Curso Técnico em Desenvolvimento de Sistema
+Faculdade: Senai
+Periodo: Abr/2021 – Dez/2022
+
+Graduação: Analise Desenvolvimento de Sistema.
+Faculdade: Unicesumar.
+Período: Fev/2025 – Atual.
+
