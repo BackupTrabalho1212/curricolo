@@ -21,5 +21,14 @@ Estou ansioso para contribuir em projetos desafiadores, aprender com profissiona
 • Gerenciar prazos.
 • Pro atividade e responsabilidade.
 
+### Experiência Profissional
+WorldSkills
+Cargo: Suporte
+Período: Jun/2022 – Atual.
+Função: Auxiliar na parte de gestao de sistemas de redes.
 
+Salomon Informatica
+Cargo: Senior 1
+Período: Fevereiro/2023 – Atual.
+Função: Gestor de rede de infraestrutura , paintest.
 
